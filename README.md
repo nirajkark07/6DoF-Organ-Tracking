@@ -9,11 +9,10 @@ This project showcases 6DoF tracking using DOPE architecture.
 ## Image Dataset:
 
 <div align="center">
-
-  <p>The image dataset was generated using NDDS. Below are some examples::</p>
-  ![000000](https://github.com/user-attachments/assets/575929e9-172e-4e36-8154-ca3d3295fbe3)
-  ![000002](https://github.com/user-attachments/assets/2685132c-39d9-4eae-8756-9accf382e97c)
-  ![000192](https://github.com/user-attachments/assets/9cb8e8e2-c0e2-4634-8cba-03edbf710ee8)
+  <p>The following images were used for reconstruction:</p>
+  <img src="liver.png" alt="Color Image 1" width="45%" style="margin: 0 2%;" />
+  <img src="stomach.png" alt="Color Image 2" width="45%" style="margin: 0 2%;" />
+  <img src="lung.png" alt="Color Image 2" width="45%" style="margin: 0 2%;" />
 </div>
 
 ### Reconstruction Demo
