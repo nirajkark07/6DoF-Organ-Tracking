@@ -15,10 +15,10 @@ This project showcases 6DoF tracking using DOPE architecture.
   <img src="lung.png" alt="Color Image 3" width="30%" style="margin: 0 1%;" />
 </div>
 
-### Reconstruction Demo
-This demo showcases the reconstruction accuracy of the algorithm when deployed to live video. In this demo, two Intel Realsense L515 cameras were used. This application was developed in python using open3D rendering.
+### Tracking Demo
+Below is a demo of the tracking for all organs.
 
-
+https://github.com/user-attachments/assets/0d3e6188-7794-4b1a-89c9-5e7e1cbf6d6d
 
 ---
 
